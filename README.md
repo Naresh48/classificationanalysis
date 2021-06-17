@@ -16,4 +16,4 @@ dependent column will be only one but independent column will be one or more tha
 Data split in to train data and test data. we can train model by train data and test that model on test data and then find accuracy and then predict the class.
 
 Here i did label encoding because machine learning algorithm in python can decide in a better way on how those numeric labels must be operated and it is important pre-processing
-step for the structured data in supervised learning.
+step for the structured data in SUPERVISED LEARNING.
